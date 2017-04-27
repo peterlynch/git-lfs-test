@@ -1,2 +1,2 @@
 [lfs]
-	url = https://localhost:8081/repository/gitlfs-hosted/info/lfs
+	url = http://localhost:8081/repository/gitlfs-hosted/info/lfs
